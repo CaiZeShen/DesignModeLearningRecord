@@ -1,0 +1,6 @@
+D:\my c#\DesignMode\DesignMode\bin\Debug\DesignMode.exe.config
+D:\my c#\DesignMode\DesignMode\bin\Debug\DesignMode.exe
+D:\my c#\DesignMode\DesignMode\bin\Debug\DesignMode.pdb
+D:\my c#\DesignMode\DesignMode\obj\Debug\DesignMode.csprojResolveAssemblyReference.cache
+D:\my c#\DesignMode\DesignMode\obj\Debug\DesignMode.exe
+D:\my c#\DesignMode\DesignMode\obj\Debug\DesignMode.pdb
