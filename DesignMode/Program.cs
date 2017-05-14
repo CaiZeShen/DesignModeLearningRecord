@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace DesignMode {
     class Program {
         static void Main(string[] args) {
-            _18_MementoMode.Test.Test1();
+            _19_Composite.Test.Test1();
         }
     }
 }

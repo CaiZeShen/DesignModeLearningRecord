@@ -47,6 +47,11 @@
     <Compile Include="18_MementoMode\RoleStateCaretaker.cs" />
     <Compile Include="18_MementoMode\RoleStateMemento.cs" />
     <Compile Include="18_MementoMode\Test.cs" />
+    <Compile Include="19_Composite\Company.cs" />
+    <Compile Include="19_Composite\ConcreteCompany.cs" />
+    <Compile Include="19_Composite\FinanceDepartment.cs" />
+    <Compile Include="19_Composite\HRDepartment.cs" />
+    <Compile Include="19_Composite\Test.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
