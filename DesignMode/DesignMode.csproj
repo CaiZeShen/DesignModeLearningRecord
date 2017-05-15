@@ -52,12 +52,19 @@
     <Compile Include="19_Composite\FinanceDepartment.cs" />
     <Compile Include="19_Composite\HRDepartment.cs" />
     <Compile Include="19_Composite\Test.cs" />
+    <Compile Include="20_Iterator\Aggregate.cs" />
+    <Compile Include="20_Iterator\ConcreteAggregate.cs" />
+    <Compile Include="20_Iterator\ConcreteAggregateIr.cs" />
+    <Compile Include="20_Iterator\ConcreteAggregateDescIr.cs" />
+    <Compile Include="20_Iterator\Iterator.cs" />
+    <Compile Include="20_Iterator\Test.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
