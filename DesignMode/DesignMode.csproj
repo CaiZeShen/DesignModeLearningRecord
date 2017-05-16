@@ -58,6 +58,8 @@
     <Compile Include="20_Iterator\ConcreteAggregateDescIr.cs" />
     <Compile Include="20_Iterator\Iterator.cs" />
     <Compile Include="20_Iterator\Test.cs" />
+    <Compile Include="21_Singleton\Singleton1.cs" />
+    <Compile Include="21_Singleton\Singleton2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
