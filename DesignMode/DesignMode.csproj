@@ -60,6 +60,13 @@
     <Compile Include="20_Iterator\Test.cs" />
     <Compile Include="21_Singleton\Singleton1.cs" />
     <Compile Include="21_Singleton\Singleton2.cs" />
+    <Compile Include="22_Bridge\HandsetAdressList.cs" />
+    <Compile Include="22_Bridge\HandsetBrand.cs" />
+    <Compile Include="22_Bridge\HandsetGame.cs" />
+    <Compile Include="22_Bridge\HandsetMBrand.cs" />
+    <Compile Include="22_Bridge\HandsetNBrand.cs" />
+    <Compile Include="22_Bridge\HandsetSoft.cs" />
+    <Compile Include="22_Bridge\Test.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
