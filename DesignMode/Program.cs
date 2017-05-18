@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace DesignMode {
     class Program {
         static void Main(string[] args) {
-            _22_Bridge.Test.Test1();
+            _23_Command.Test.Test1();
         }
     }
 }

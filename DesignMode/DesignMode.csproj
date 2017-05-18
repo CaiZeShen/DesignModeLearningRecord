@@ -67,6 +67,12 @@
     <Compile Include="22_Bridge\HandsetNBrand.cs" />
     <Compile Include="22_Bridge\HandsetSoft.cs" />
     <Compile Include="22_Bridge\Test.cs" />
+    <Compile Include="23_Command\BakeChickenWingCommand.cs" />
+    <Compile Include="23_Command\BakeMuttonCommand.cs" />
+    <Compile Include="23_Command\Barbecuer.cs" />
+    <Compile Include="23_Command\Command.cs" />
+    <Compile Include="23_Command\Test.cs" />
+    <Compile Include="23_Command\Waiter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
