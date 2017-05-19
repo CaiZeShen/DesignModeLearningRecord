@@ -73,6 +73,12 @@
     <Compile Include="23_Command\Command.cs" />
     <Compile Include="23_Command\Test.cs" />
     <Compile Include="23_Command\Waiter.cs" />
+    <Compile Include="24_ChainOfResponsibility\CommonManager.cs" />
+    <Compile Include="24_ChainOfResponsibility\GeneralManager.cs" />
+    <Compile Include="24_ChainOfResponsibility\Majordomo.cs" />
+    <Compile Include="24_ChainOfResponsibility\Manager.cs" />
+    <Compile Include="24_ChainOfResponsibility\Request.cs" />
+    <Compile Include="24_ChainOfResponsibility\Test.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
