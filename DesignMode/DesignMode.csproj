@@ -79,6 +79,12 @@
     <Compile Include="24_ChainOfResponsibility\Manager.cs" />
     <Compile Include="24_ChainOfResponsibility\Request.cs" />
     <Compile Include="24_ChainOfResponsibility\Test.cs" />
+    <Compile Include="25_Mediator\Colleague.cs" />
+    <Compile Include="25_Mediator\ConcreteColleague1.cs" />
+    <Compile Include="25_Mediator\ConcreteColleague2.cs" />
+    <Compile Include="25_Mediator\ConcreteMediator.cs" />
+    <Compile Include="25_Mediator\Mediator.cs" />
+    <Compile Include="25_Mediator\Test.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
