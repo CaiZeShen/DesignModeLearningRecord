@@ -90,6 +90,12 @@
     <Compile Include="26_Flyweight\User.cs" />
     <Compile Include="26_Flyweight\Website.cs" />
     <Compile Include="26_Flyweight\WebsiteFactory.cs" />
+    <Compile Include="27_Interpreter\Expression.cs" />
+    <Compile Include="27_Interpreter\Note.cs" />
+    <Compile Include="27_Interpreter\PlayContext.cs" />
+    <Compile Include="27_Interpreter\Scale.cs" />
+    <Compile Include="27_Interpreter\Speed.cs" />
+    <Compile Include="27_Interpreter\Test.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
