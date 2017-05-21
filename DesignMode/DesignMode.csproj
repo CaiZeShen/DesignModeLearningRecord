@@ -85,6 +85,11 @@
     <Compile Include="25_Mediator\ConcreteMediator.cs" />
     <Compile Include="25_Mediator\Mediator.cs" />
     <Compile Include="25_Mediator\Test.cs" />
+    <Compile Include="26_Flyweight\ConcreteWebsite.cs" />
+    <Compile Include="26_Flyweight\Test.cs" />
+    <Compile Include="26_Flyweight\User.cs" />
+    <Compile Include="26_Flyweight\Website.cs" />
+    <Compile Include="26_Flyweight\WebsiteFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

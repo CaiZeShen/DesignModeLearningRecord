@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace DesignMode {
     class Program {
         static void Main(string[] args) {
-            _25_Mediator.Test.Test1();
+            _26_Flyweight.Test.Test1();
         }
     }
 }
