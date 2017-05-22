@@ -96,6 +96,14 @@
     <Compile Include="27_Interpreter\Scale.cs" />
     <Compile Include="27_Interpreter\Speed.cs" />
     <Compile Include="27_Interpreter\Test.cs" />
+    <Compile Include="28_Visitor\ConcreteElementA.cs" />
+    <Compile Include="28_Visitor\ConcreteElementB.cs" />
+    <Compile Include="28_Visitor\ConcreteVisitor1.cs" />
+    <Compile Include="28_Visitor\ConcreteVisitor2.cs" />
+    <Compile Include="28_Visitor\Element.cs" />
+    <Compile Include="28_Visitor\ObjectStructure.cs" />
+    <Compile Include="28_Visitor\Test.cs" />
+    <Compile Include="28_Visitor\Visitor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
